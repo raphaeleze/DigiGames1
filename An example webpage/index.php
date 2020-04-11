@@ -26,5 +26,8 @@
       <input type="password" name="password" placeholder="Your Password">
       <button type="button" name="button">Submit Answers</button>
     </form>
+     
+    <footer> eze </footer>
+    
   </body>
 </html>
