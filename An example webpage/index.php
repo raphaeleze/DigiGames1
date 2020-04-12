@@ -12,7 +12,7 @@
       h1{
         text-align: center;
         font-weight: bold;
-        color: yellow;
+        color: red;
       }
       form{
 
